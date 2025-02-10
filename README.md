@@ -20,3 +20,6 @@ curl 'http://localhost:8080/ai/ask?question=tell%20me%202%20best%20hindi%20movie
 -H 'sec-ch-ua: "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"' \
 -H 'sec-ch-ua-mobile: ?0' \
 -H 'sec-ch-ua-platform: "Windows"'
+
+
+![img.png](img.png)
