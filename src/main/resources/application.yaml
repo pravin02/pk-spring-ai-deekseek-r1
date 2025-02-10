@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: pk-spring-ai-deekseek-r1
+
+
+---
+spring:
+  ai:
+    ollama:
+      chat:
+        base-url: http://localhost:11434/
+        options:
+          model: deepseek-r1:1.5b
