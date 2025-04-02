@@ -2,6 +2,8 @@ spring:
   application:
     name: pk-spring-ai-deekseek-r1
 
+server:
+  port: ${PORT:8080}
 
 ---
 spring:
